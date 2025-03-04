@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: 
+    url: 
 
-  - title: blog
-    url: blog
+  - title: 
+    url: 
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: 
+    url: 
 
 project_entries:
   - title: Project 1
@@ -54,17 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: 
+    url: 
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: 
+    url: 
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: 
+    url: 
 
-  - title: feed
-    url: feed.xml
+  - title: 
+    url: 
 
 misc_entries:
   - title: this is an example vertical list
