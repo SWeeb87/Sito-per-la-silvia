@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: Test Post
-    url: https://sweeb87.github.io/Test-Site/overview-post
+    url: https://sweeb87.github.io/Sito-per-la-silvia/overview-post
     desc: Questo pulsante porta ad un post di test
 
   - title: Qui è tutto in cinese
-    url: https://sweeb87.github.io/Test-Site/language-tests
+    url: https://sweeb87.github.io/Sito-per-la-silvia/language-tests
     desc: Ching chong bling blong
 
   # - title: Test Post
