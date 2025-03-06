@@ -17,21 +17,21 @@ project_entries:
     url: https://sweeb87.github.io/Test-Site/language-tests
     desc: Ching chong bling blong
 
-  - title: Pagina 3
-    url: overview-post
-    desc: Questo è un pulsante che porta alla pagina 3
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
-  - title: Pagina 4
-    url: overview-post
-    desc: Questo è un pulsante che porta alla pagina 4
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
-  - title: Pagina 5
-    url: overview-post
-    desc: Questo è un pulsante che porta alla pagina 5
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
-  - title: Pagina 6
-    url: overview-post
-    desc: Questo è un pulsante che porta alla pagina 6
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
 old_project_entries:
   - title: Pagina 7
