@@ -33,7 +33,7 @@ theme_config:
   show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Varie Pagine
+    title_projects: Mmmm clicca questi pulsanti...
     title_misc_list: Details
     title_blog: Pagine con date
     title_old_projects: Altre pagine, ma più in basso
