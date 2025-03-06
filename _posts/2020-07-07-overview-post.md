@@ -1,10 +1,10 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Lorenzo Rossi
 tags: [overview, moonwalk]
 ---
 
-AAAAAAAAAAAAAAAAAAAA.
+Sembra proprio funzionare!!!
 
 # Sample heading 1
 ## Sample heading 2
