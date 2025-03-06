@@ -72,7 +72,7 @@ Now a table:
 
 ## Images
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![theme logo](https://github.com/SWeeb87/Sito-per-la-silvia/blob/main/assets/images/favicon/ritratto-di-scimpanze-studio-sho.png)
 
 This is an image[^4]
 
