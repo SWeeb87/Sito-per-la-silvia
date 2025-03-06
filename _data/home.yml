@@ -14,7 +14,7 @@ project_entries:
     desc: Questo è un pulsante che porta alla pagina 1
 
   - title: Pagina 2
-    url: overview-post
+    url: language-tests
     desc: Questo è un pulsante che porta alla pagina 2
 
   - title: Pagina 3
