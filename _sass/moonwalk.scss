@@ -88,7 +88,7 @@ img {
 /* 🟠 Tema Scuro */
 @mixin dark-appearance {
   html, body  {
-    --headings: #fed0bb;
+    --headings: linear-gradient(90deg, #8ec5fc, #e0c3fc);
     --links: #fcb9b2;
     --highlight: #5ab9b9;
     --bg: #461220;
